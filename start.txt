@@ -1,1 +1,8 @@
+mnb,ncbn,cnbmcxnbxnbmnxbnxbncxbn,mxb
+xbnx,nbmxnbnxb,mncx
+xbn,mcxnb,mnb,cxnmbcnb
+xcnbxmnbmxnb,mnxb,mnx
+xbnxmnb,mnb,mxnb
+bn,mcxnb,mxnbmnxbmnxb
+n,mcxbv,mxnbxnbxnb
 Test Git quickstart demo
